@@ -1,0 +1,86 @@
+/* font related styles */
+* {
+    font-family: "Work Sans", sans-serif;
+}
+
+/* body related styles */
+body {
+    margin: 0;
+}
+
+/* sec-1 related styles */
+.sec-1-container {
+    background-image: url("images/banner/banner1.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding: 200px;
+}
+
+.sec-1-1 {
+    margin-left: 500px;
+}
+
+.sec-1-title-1 {
+    color: #151414;
+    text-align: right;
+    font-family: "Work Sans";
+    font-size: 45px;
+    font-weight: 700;
+}
+
+.sec-1-description {
+    color: #444343;
+    text-align: right;
+    font-family: "Work Sans";
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.sec-1-btn {
+    float: right;
+    padding: 20px 40px;
+    border-radius: 5px;
+    background-color: #F15B22;
+    color: #FFF;
+    font-family: "Work Sans";
+    font-size: 15px;
+    font-weight: 600;
+    border: none;
+    margin-top: 20px;
+}
+
+/* sec-2 related styles */
+.sec-2 {
+    margin: 70px 100px 0px 100px;
+    outline: 2px solid red;
+}
+.sec-2-container{
+    display: flex;
+    align-items: center;
+}
+.sec-2-image{
+    height: 550px;
+}
+.sec-2-title-1 {
+    color: #151414;
+    font-family: "Work Sans";
+    font-size: 40px;
+    font-weight: 700;
+}
+.sec-2-part-2{
+    margin: 0px 100px 0px 200px;
+    text-align: left;
+}
+.sec-2-description-1{
+    color: #444343;
+    font-family: "Work Sans";
+    font-size: 16px;
+    font-weight: 400;
+}
+.sec-2-points{
+    color:#444343;
+    font-family: "Work Sans";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+}
