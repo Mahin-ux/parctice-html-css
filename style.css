@@ -156,12 +156,13 @@ body {
     margin-right: 500px;
 }
 
-.sec-4-image-1{
+.sec-4-image-1 {
     position: absolute;
     left: 100px;
     top: 1900px;
     opacity: 0.45;
 }
+
 .sec-4-button {
     border-radius: 5px;
     background: #FFF;
