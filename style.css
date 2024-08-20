@@ -6,6 +6,7 @@
 /* body related styles */
 body {
     margin: 0;
+    padding: 0;
 }
 
 /* sec-1 related styles */
@@ -166,4 +167,52 @@ body {
     font-size: 15px;
     font-style: normal;
     font-weight: 500;
+}
+
+/* sec-5 related styles */
+.sec-5-container {
+    background-color: #151414;
+    padding: 100px;
+    display: flex;
+}
+
+.sec-5-title {
+    color: #F8F8F8;
+    font-family: "Work Sans";
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.sec-5-description {
+    color: #FFF;
+    font-family: "Work Sans";
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.sec-5-input {
+    padding: 15px 100px 15px 15px;
+    background-color: black;
+    border: 1px solid white;
+    border-radius: 5px;
+    color: white;
+    display: block;
+}
+
+.sec-5-btn {
+    margin-top: 20px;
+    padding: 15px 30px;
+    color: #F15B22;
+    border-radius: 7px;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+#sec-5-p {
+    margin-right: 400px;
+}
+
+.sec-5-part-1 img {
+    margin-top: 20px;
+    margin-right: 15px;
 }
