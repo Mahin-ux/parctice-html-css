@@ -93,7 +93,6 @@ body {
 /* sec-3 related styles */
 .sec-3 {
     margin: 70px 200px 0px 200px;
-    outline: 2px solid red;
     padding: 50px;
 }
 
@@ -135,4 +134,36 @@ body {
     font-size: 15px;
     font-weight: 400;
 }
+
 /* sec-4 related styles */
+.sec-4 {
+    margin: 0px;
+    padding: 100px;
+}
+
+.sec-4-container {
+    background-image: url("images/watch.png");
+    background-repeat: no-repeat;
+    padding: 50px;
+}
+
+.sec-4-title {
+    color: #FFF;
+    font-family: "Work Sans";
+    font-size: 40px;
+    font-weight: 600;
+    margin-right: 500px;
+}
+
+.sec-4-button {
+    border-radius: 5px;
+    background: #FFF;
+    padding: 15px 40px;
+    border: none;
+    color: #F15B22;
+    text-align: center;
+    font-family: "Work Sans";
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+}
